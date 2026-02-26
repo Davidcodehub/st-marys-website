@@ -1,0 +1,7 @@
+# St. Mary's HSS Mawpdang - Robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://stmarys-mawpdang.edu.in/sitemap.xml
